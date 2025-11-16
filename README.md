@@ -9,7 +9,6 @@ This repository contains course materials, assignments, and C++ code for the **D
 - Stacks and Queues
 - Trees (Binary Tree, BST)
 - Graphs
-- Sorting & Searching algorithms
 
 ### Notes
 
