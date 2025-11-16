@@ -5,10 +5,10 @@ This repository contains course materials, assignments, and C++ code for the **D
 ## Contents
 
 - Arrays and Pointers
-- Linked Lists
-- Stacks and Queues
-- Trees (Binary Tree, BST)
-- Graphs
+- Linked Lists and Double linked list
+- Stacks
+- Queues and circular queue
+- Trees 
 
 ### Notes
 
